@@ -33,7 +33,7 @@ int main() {
         glasnie = word_glasnie;
     }
 
-    // Печатаем гласные в алфавитном порядке
+    // Печать гласных в алфавитном порядке
     for (char c : glasnie) {
         cout << c << " ";
     }
